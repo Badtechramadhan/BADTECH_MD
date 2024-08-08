@@ -107,7 +107,7 @@
    
 ## Deployment Methods
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://badtech-md-vtsf.onrender.com/) Or [`PARING CODE`](https://badtech-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
 3.  ***Click [`FORK`](https://github.com/Badtechramadhan/BADTECH_MD/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
