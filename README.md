@@ -114,7 +114,20 @@
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`]( [)](https://badtechmd1-session-1.onrender.com) Or [`PARING CODE`]( [)](https://badtechmd1-session-1.onrender.com). Then `Go-to Whatapp>Three dots>Linked Devices`***
 
-##
+##. If you don't have an  account in Heroku, create one.
+    <br>
+    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+2. Now deploy.
+    <br>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx/Queen_Anita-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+### DEPLOY ON REPLIT
+1. Deploy.
+    <br>
+    <a href='https://replit.com/github/Deeceexxx/Queen_Anita-V2' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+### DEPLOY ON RAILWAY
+1. Deploy.
+    <br>
+    <a href='https://railway.com/github/Deeceexxx/Queen_Anita-V2' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
  <details close>
 <summary>RENDER DEPLOY PROCESS</summary>
