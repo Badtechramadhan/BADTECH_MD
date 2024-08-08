@@ -1,6 +1,6 @@
  <h1 align="center"> BADTECH Md </h1> 
 # BADTECH MD ( UnOfficial Version ) 
-   <a><img src='https://telegra.ph/file/7e172947f220c4b86ec26.jpg'/></a><a><img src='https://telegra.ph/file/7e172947f220c4b86ec26.jpg'/></a>
+   <a><img src='https://telegra.ph/file/7e172947f220c4b86ec26.jpg'/></a>
 <p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ BADTECH_+MD-+V1★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+𝐑𝐀𝐌𝐀𝐃𝐇𝐀𝐍+𝐘𝐔𝐒𝐔𝐅;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
