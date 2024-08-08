@@ -107,7 +107,7 @@
    
 ## Deployment Methods
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://badtechmd-session-1.onrender.com) Or [`PARING CODE`](https://badtechmd-session-1.onrender.com). Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 ##
 
