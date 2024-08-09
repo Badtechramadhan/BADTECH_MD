@@ -112,7 +112,7 @@
    
 ## Deployment Methods
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`]( [)](https://badtechmd1-session-1.onrender.com) Or [`PARING CODE`]( [)](https://badtechmd1-session-1.onrender.com). Then `Go-to Whatapp>Three dots>Linked Devices`***
+1.  ***Get `SESSION ID` by [`BADTECH PAIRING CODE`]( [)](https://badtechmd-session.onrender.com). Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 ##. If you don't have an  account in Heroku, create one.
     <br>
