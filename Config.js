@@ -8,18 +8,18 @@ global.video= "" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || "https://github.com/Badtechramadhan/BADTECH_MD/tree/main"                       // put your app url here,
 global.email ="badtechramadhan@gmail.com"
-global.location="Lahore,Pakistan."
+global.location="Uganda,Kampala."
 
 
-global.mongodb= process.env.MONGODB_URI || ""
+global.mongodb= process.env.MONGODB_URI || "mongodb+srv://astrofx0011:astro@cluster0.lmwnxdt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
 
-global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
-global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
-global.gurl  =process.env.GURL  || "";
-global.website=process.env.GURL || "" ; 
+global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Uganda";
+global.github=process.env.GITHUB|| "https://github.com/Badtechramadhan/BADTECH_MD";
+global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/IM57veJplECHwSiwI2iXaY";
+global.website=process.env.GURL || "https://chat.whatsapp.com/IM57veJplECHwSiwI2iXaY" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/BadtechRamadhan/Badtech-Md/blob/main/lib/assets/Badtech.jpg?raw=true" ; // SET LOGO FOR IMAGE 
 global.caption = process.env.CAPTION || global.caption || "ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ" 
 
@@ -59,7 +59,7 @@ global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,256xxxxxxxx";
 global.read_status_from =  process.env.READ_STATUS_FROM  ||  "256703025571,2567xxxxxxxx";
 
 global.api_smd = "https://api-smd.onrender.com" //  || "https://api-smd-1.vercel.app" // expires
-global.scan = "https://Badtech-md-vtsf.onrender.com";
+global.scan = "https://badtechmd1-session-1.onrender.com/";
 
 
 global.SESSION_ID = process.env.SESSION_ID ||  ""  // PUT your SESSION_ID 
@@ -74,8 +74,8 @@ module.exports = {
   VERSION : process.env.VERSION || "1.3.8",
   caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "",
-  packname: process.env.PACK_NAME || "",
+  author : process.env.PACK_AUTHER|| "B A D T E C H",
+  packname: process.env.PACK_NAME || "BADTECH RAMAH",
   botname : process.env.BOT_NAME  || "BADTECH",
   ownername:process.env.OWNER_NAME|| "badtech",
 
@@ -83,10 +83,10 @@ module.exports = {
   errorChat : process.env.ERROR_CHAT || "",
   KOYEB_API : process.env.KOYEB_API  || "false",
 
-  REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "",
-  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
-  HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
-  HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "",
+  REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "neLbXXrp8bSDcohnp1CW5UEa",
+  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "sk-proj-pBksWDImP6VuvvJTvqDsT3BlbkFJ2E8GhbpzjyRFkFaBI9Aj",
+  HEROKU_API_KEY: process.env.HEROKU_API_KEY || "HRKU-5fb6e083-c964-4ef1-a933-3b061c3bad42",
+  HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "badtechmd",
   antilink_values:process.env.ANTILINK_VALUES|| "all",
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
 
